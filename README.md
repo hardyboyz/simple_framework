@@ -1,2 +1,2 @@
 # simple_framework
-created by hardyboyz, for UiTM final projects only.
+created by hardyboyz, created especially for Unisel students for their final projects only.
